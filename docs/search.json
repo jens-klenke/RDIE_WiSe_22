@@ -4,7 +4,7 @@
     "href": "uebung.html",
     "title": "Exercise",
     "section": "",
-    "text": "Nachfolgend finden Sie Materialien für die Übung."
+    "text": "Below you will find materials for the exercises."
   },
   {
     "objectID": "uebung.html#online-companion-iter",
@@ -25,7 +25,7 @@
     "href": "uebung.html#r-lösungen",
     "title": "Exercise",
     "section": "R-Lösungen",
-    "text": "R-Lösungen\n\nR-Lösungen Übung 1\nR-Lösungen Übung 2\nR-Lösungen Übung 3\nR-Lösungen Übung 4"
+    "text": "R-Lösungen\n\nR-solution Exercise 1"
   },
   {
     "objectID": "uebung.html#datensätze",
@@ -46,7 +46,7 @@
     "href": "Vorlesung.html",
     "title": "Lecture",
     "section": "",
-    "text": "Skript\nSyllabus Präsentation\nSyllabus"
+    "text": "Slides"
   },
   {
     "objectID": "Vorlesung.html#online-companion-iter",
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Recent Developments in Econometrics (Winter 2022/23)",
     "section": "",
-    "text": "Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs Deskriptive Statistik kurzfristig über diese Website bereit. Beachten Sie, dass JACK von der Störung genauso betroffen ist wie alle anderen Dienste.\nBitte beachten Sie, dass sämtliche E-Mail-Dienste der Universität ebenfalls betroffen sind. Daher haben wir die nachfolgenden E-Mail-Adressen für Sie eingerichtet."
+    "text": "Due to the current technical problems with the University’s Information Services, we are making materials for the Recent Developments in Econometrics course available on short notice through this website.\nPlease note that all university email services are also affected. Therefore, we have set up the following email addresses for you."
   },
   {
     "objectID": "index.html#kontakt",
@@ -95,7 +95,7 @@
     "href": "uebung.html#exercise-sheets",
     "title": "Exercise",
     "section": "Exercise sheets",
-    "text": "Exercise sheets\n\nÜbungsblatt 1\nÜbungsblatt 2\nÜbungsblatt 3\nÜbungsblatt 4\nÜbungsblatt 5"
+    "text": "Exercise sheets\n\nExercise sheet 1"
   },
   {
     "objectID": "uebung.html#data-sets",
@@ -103,5 +103,26 @@
     "title": "Exercise",
     "section": "Data sets",
     "text": "Data sets\n\nhotel_stars.RData"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Recent Developments in Econometrics (Winter 2022/23)",
+    "section": "Contact",
+    "text": "Contact\nFor important questions, please contact us via email:\n\nTill Massing\nThilo Reinschlüssel"
+  },
+  {
+    "objectID": "uebung.html#exercise-notes",
+    "href": "uebung.html#exercise-notes",
+    "title": "Exercise",
+    "section": "Exercise Notes",
+    "text": "Exercise Notes\n\nNotes Exercise 1"
+  },
+  {
+    "objectID": "uebung.html#datasets",
+    "href": "uebung.html#datasets",
+    "title": "Exercise",
+    "section": "Datasets",
+    "text": "Datasets\n\nhotel_stars.RData"
   }
 ]
