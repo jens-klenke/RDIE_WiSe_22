@@ -14,10 +14,8 @@ For **important** questions, please contact us via email:
 -   [Till Massing](mailto:tillmassing+oeko@gmail.com?subject=%5BEconometrics%5D)
 -   [Thilo Reinschlüssel](mailto:rdie_winter2022@protonmail.com?subject=%5BEconometrics%5D)
 
-```{=html}
-<!--
+
 ## Discord: Diskussions- und Nachrichtenforum
 
-<iframe src="https://e.widgetbot.io/channels/1046707102984437770/1046707119774236694" height="600" width="100%"></iframe>
--->
-```
+<iframe src="https://e.widgetbot.io/channels/1047544819452485693/1047546953912819812" height="600" width="100%"></iframe>
+
