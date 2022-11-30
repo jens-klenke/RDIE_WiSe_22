@@ -3,7 +3,7 @@ title: 'Recent Developments in Econometrics (Winter 2022/23)'
 subtitle: "Chair of Econometrics "
 ---
 
-Due to the current technical problems with the University's Information Services, we are making materials for the *Recent Developments in Econometrics* course available on short notice through this website. 
+Due to the current technical problems with the University's Information Services, we are making materials for the *Recent Developments in Econometrics* course available on short notice through this website.
 
 **Please note that all university email services are also affected. Therefore, we have set up the following email addresses for you.**
 
@@ -11,9 +11,8 @@ Due to the current technical problems with the University's Information Services
 
 For **important** questions, please contact us via email:
 
--   [Till Massing](mailto:tillmassing+oeko@gmail.com?subject=[Econometrics])
--   [Thilo Reinschlüssel](mailto:rdie_winter2022@protonmail.com?subject=[Econometrics])
-
+-   [Till Massing](mailto:tillmassing+oeko@gmail.com?subject=%5BEconometrics%5D)
+-   [Thilo Reinschlüssel](mailto:rdie_winter2022@protonmail.com?subject=%5BEconometrics%5D)
 
 ```{=html}
 <!--

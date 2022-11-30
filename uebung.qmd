@@ -6,7 +6,6 @@ Below you will find materials for the exercises.
 
 ## Exercise sheets
 
-
 -   [Exercise sheet 1](https://github.com/jens-klenke/Desk_Stat_WiSe_22/raw/main/exercise/exercise_01/Uebungsblatt_1.pdf)
 
 ## Exercise Notes
